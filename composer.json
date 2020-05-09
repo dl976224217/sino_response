@@ -1,0 +1,20 @@
+{
+    "name": "sino/sino_api_exception",
+    "description": "这里是个包",
+    "type": "library",
+    "require": {
+    },
+    "license": "define your dependencies",
+    "authors": [
+        {
+            "name": "li.ding",
+            "email": "li.ding@meetsocial.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SinoResponse\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
